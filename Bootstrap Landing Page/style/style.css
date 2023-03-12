@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.masthead {
+    background-image: url("../img/sea.jpg");
+    background-position: center;
+    /* height: 600px; */
+}
+
+.email {
+    padding: 12rem 0;
+}
+
+.banner_area {
+    margin: 100px 0;
+}
+
+.testimonial-item {
+    max-width: 18rem;
+}
+
+.testimonial-item img {
+    max-width: 12rem;
+}
+
+.sign_up_area {
+    background-image: url("../img/sea.jpg");
+    background-position: center;
+}
